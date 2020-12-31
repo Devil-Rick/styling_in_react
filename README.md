@@ -1,2 +1,2 @@
-# styling_in_react
+# Styling-in_react
 Created with CodeSandbox
